@@ -1,4 +1,11 @@
+#body {
+    background-image: url('cool-background.png');
+    background-size: cover;
+}
+
+
 .navbar-nav {
     margin-left: auto;
     right: 0%;
 }
+
