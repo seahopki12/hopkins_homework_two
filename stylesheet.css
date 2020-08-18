@@ -9,11 +9,25 @@
     right: 0%;
 }
 
-.container {
-    background-color: white;   
+.form {
+    padding: 20px;
+    background-color: white;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
 }
 
 .header {
     color: teal;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgreen;
+    color: white;
+    text-align: center;   
 }
