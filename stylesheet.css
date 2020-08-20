@@ -33,25 +33,23 @@
 }
 
 #aboutMe {
-    /* content: ' ';
-    display: table;
-    width: 100%; */
     padding-bottom: 5%;
 }
 
-.aboutImage {
+#aboutImage {
     float: left;
-}
-
-.portfolioImage {
-    padding: 5%;
-    align-self: center;
 }
 
 #firstParagraph {
     float: inline-start;
     width: 100%;
     padding-left: 20%;
+    font-size: 20px;
+}
+
+.portfolioImage {
+    padding: 5%;
+    align-self: center;
 }
 
 .footer {
